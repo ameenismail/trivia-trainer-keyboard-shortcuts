@@ -2,7 +2,9 @@
 Enable keyboard shortcuts on the [Trivia Trainer website](http://www.trivia-trainer.com/).
 
 ### Installation
-Like any userscript, you'll first need a userscript manager such as Greasemonkey. Then create a new userscript, copy into it the contents of `file.js`, and save it.
+Like any userscript, you'll first need a userscript manager such as Greasemonkey. Then create a new userscript, copy into it the contents of `shortcuts.js`, and save it.
+
+I've tested the script with Greasemonkey on Firefox, but I think it should work on any browser. Please let me know if it doesn't.
 
 ### Usage
 
